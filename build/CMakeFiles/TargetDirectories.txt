@@ -1,0 +1,3 @@
+/home/marwa/resources_monitor/build/CMakeFiles/resource_monitor.dir
+/home/marwa/resources_monitor/build/CMakeFiles/edit_cache.dir
+/home/marwa/resources_monitor/build/CMakeFiles/rebuild_cache.dir
